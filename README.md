@@ -1,0 +1,2 @@
+# PI-Ecoaleta
+O **EcoAlertas** é um sistema integrado de monitoramento ambiental em tempo real, desenvolvido para:  - **Coletar e processar dados ambientais** (temperatura, umidade, fumaça, calor) de sensores IoT e fontes públicas (INMET). - **Gerar alertas automáticos** de riscos (incêndios, enchentes, geadas) com base em regras configuráveis. - **Exibir dashboards interativos** para visualização imediata das condições e histórico de leituras. - **Facilitar ações preventivas e de resposta** por parte de órgãos governamentais, ONGs e comunidades vulneráveis.
